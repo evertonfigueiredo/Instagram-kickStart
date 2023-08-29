@@ -4035,7 +4035,7 @@ p {
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 995px) {
   .svr-section-hero {
     background-image: none;
     background-position: 0 0;
@@ -4197,6 +4197,10 @@ p {
     text-align: center;
   }
 
+  .text-block-4 {
+    margin: 10px;
+  }
+
   .text-block-2._2 {
     margin-left: auto;
     margin-right: auto;
@@ -4209,10 +4213,6 @@ p {
     margin-left: auto;
     margin-right: auto;
     display: flex;
-  }
-
-  .box-aula {
-    max-width: 281px;
   }
 
   .box-conteudo-capaz {
